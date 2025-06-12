@@ -1,5 +1,5 @@
 function Freelances() {
-    return <div>Page d'accueil</div>;
+    return <div>Freelances</div>;
 }
 
 export default Freelances;
